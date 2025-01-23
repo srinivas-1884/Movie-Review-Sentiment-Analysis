@@ -1,4 +1,4 @@
-# Movie Review Sentiment Analysis Project 
+# Movie Reviews Sentiment Analysis Project 
 This project focuses on sentiment analysis of movie reviews using the IMDb dataset. The dataset consists of 50,000 movie reviews labeled as positive or negative. The main goal of this project is to develop models that can accurately classify the sentiment of movie reviews.
 
 
@@ -6,9 +6,9 @@ This project focuses on sentiment analysis of movie reviews using the IMDb datas
 
 Label	Number of Samples
 
-Positive	25000
+Positive:	25000
 
-Negative	25000
+Negative:	25000
 
 Dataset Link: https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews?datasetId=134715&sortBy=dateRun&tab=profile
 
