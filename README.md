@@ -2,7 +2,7 @@
 This project focuses on sentiment analysis of movie reviews using the IMDb dataset. The dataset consists of 50,000 movie reviews labeled as positive or negative. The main goal of this project is to develop models that can accurately classify the sentiment of movie reviews.
 
 
-Dataset
+# Dataset
 
 Label	Number of Samples
 
@@ -13,7 +13,7 @@ Negative	25000
 Dataset Link: https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews?datasetId=134715&sortBy=dateRun&tab=profile
 
 
-Three different models are developed for sentiment analysis of movie reviews:
+# Models Developed
 
 Simple Neural Network: This model architecture consists of a simple feed-forward neural network with fully connected layers. It is trained on the preprocessed movie review data to learn sentiment classification.
 
@@ -28,7 +28,7 @@ Based on the experimental results, it is observed that the LSTM model performs b
 
 Feel free to explore this project's code and experiment with different models and configurations to enhance sentiment analysis performance on the IMDb movie review dataset.
 
-Requirements:-
+# Requirements
 
 To run this project, the following dependencies are required:
 
@@ -50,7 +50,7 @@ GloVe word embeddings
 
 Please make sure to install the necessary libraries and download the GloVe word embeddings before running the project.
 
-License:-
+# License
 
 This project is licensed under the MIT License.
 
